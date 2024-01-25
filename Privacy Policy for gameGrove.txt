@@ -1,0 +1,39 @@
+Privacy Policy for gameGrove
+
+Last updated: 25-01-2024
+
+1. Introduction
+Welcome to gameGrove, a game information application focused on providing users with details about various games. This Privacy Policy outlines how we handle user data.
+
+2. Information Collection
+2.1 No Personal Information
+We do not collect any personal information such as usernames, passwords, or other identifiable user data.
+
+2.2 Read-Only Data
+gameGrove is designed as a read-only application. We do not store or process any user data as part of the app's functionality.
+
+3. Use of Information
+3.1 Data Display
+Our application is designed to display information about games to users in a readable format. No user-specific data is stored or used beyond the session.
+
+4. Data Security
+4.1 No User Accounts
+As we do not collect user accounts or personal information, there is no risk of unauthorized access to user data.
+
+4.2 Read-Only Access
+The application's read-only nature ensures that users can only view information and cannot modify or interact with the data within the app.
+
+5. Cookies and Tracking
+5.1 No Cookies
+gameGrove does not use cookies or tracking technologies. We do not engage in any user tracking or analytics.
+
+6. Updates to Privacy Policy
+This Privacy Policy may be updated to reflect changes in our practices. Users are encouraged to review the policy periodically.
+
+7. Legal Compliance
+By using gameGrove, you acknowledge and agree to the terms outlined in this Privacy Policy. We comply with relevant data protection laws and regulations.
+
+8. Contact Information
+If you have any questions or concerns about this Privacy Policy, please contact us at contact@khwahishappisland.com.
+
+Thank you for using gameGrove!
