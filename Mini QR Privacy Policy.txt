@@ -1,0 +1,39 @@
+**Mini QR Privacy Policy**
+
+Effective Date: January 31, 2024
+
+Thank you for using Mini QR, a QR code application developed by khwahish. This Privacy Policy outlines the information practices for Mini QR and how your data is handled. Please read this Privacy Policy carefully to understand our practices.
+
+**Information We Collect:**
+
+Mini QR is designed to respect your privacy, and we do not collect any personal or sensitive information from users. The application does not require any registration, and we do not request access to your device's camera, contacts, or any other personal data.
+
+**Use of QR Code Data:**
+
+Mini QR is a tool for scanning and generating QR codes. The application processes QR code data locally on your device and does not store or transmit any information to external servers. All QR code data remains on your device and is not shared with us or any third parties.
+
+**No User Accounts:**
+
+Mini QR does not have user accounts or profiles. Therefore, we do not store any information about individual users, and there is no login or registration process.
+
+**Third-Party Services:**
+
+Mini QR does not integrate with any third-party services that collect or process user data. The application is entirely standalone and operates locally on your device.
+
+**Updates and Maintenance:**
+
+To improve Mini QR's functionality and fix any issues, we may provide updates through app stores. These updates do not result in any additional data collection.
+
+**Children's Privacy:**
+
+Mini QR is not intended for children under the age of 13. We do not knowingly collect any personal information from children. If you are a parent or guardian and become aware that your child has provided us with personal information, please contact us, and we will take steps to delete that information.
+
+**Changes to Privacy Policy:**
+
+We reserve the right to update this Privacy Policy as necessary to reflect changes in our services and customer feedback. We will notify users about significant changes via the app or through other appropriate communication channels.
+
+**Contact Us:**
+
+If you have any questions or concerns about this Privacy Policy or Mini QR, please contact us at khwahish1706@gmail.com .
+
+Thank you for choosing Mini QR! We hope you find it useful and assure you that your privacy is our top priority.
