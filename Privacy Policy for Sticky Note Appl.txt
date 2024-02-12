@@ -1,0 +1,30 @@
+Privacy Policy for Sticky Note Application:
+
+Effective Date: 12/02/2024
+
+Thank you for choosing Sticky Note, a simple note-keeping application developed by Khwahish. This Privacy Policy outlines how we collect, use, disclose, and safeguard your information when you use our Sticky Note application.
+
+By using Sticky Note, you consent to the collection and use of your information in accordance with this Privacy Policy. If you do not agree with the terms of this Privacy Policy, please do not use Sticky Note.
+
+1. Information We Collect:
+   - Sticky Note does not require you to provide any personal information to use its basic functionality.
+   - We do not collect or store any notes or data entered into Sticky Note.
+   - Sticky Note may collect certain non-personal information automatically, including but not limited to, your device's unique device ID, IP address, device type, and operating system.
+
+2. Use of Information:
+   - The non-personal information collected by Sticky Note is used solely to maintain and improve the application's functionality and performance.
+   - We do not sell, trade, or otherwise transfer your information to third parties.
+
+3. Third-Party Services:
+   - Sticky Note may use third-party services, such as analytics tools, to help us understand how users interact with the application. These third-party services may collect and use non-personal information in accordance with their own privacy policies.
+
+4. Data Security:
+   - We are committed to protecting the security of your information. However, please note that no method of transmission over the internet or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your information, we cannot guarantee its absolute security.
+
+5. Changes to This Privacy Policy:
+   - We reserve the right to modify this Privacy Policy at any time. If we make material changes to this Privacy Policy, we will notify you by updating the effective date at the top of this page. Your continued use of Sticky Note after any such changes constitutes your acceptance of the updated Privacy Policy.
+
+6. Contact Us:
+   - If you have any questions or concerns about this Privacy Policy, please contact us at Khwahish1706@gmail.com
+
+By using Sticky Note, you acknowledge that you have read and understood this Privacy Policy and agree to its terms and conditions.
