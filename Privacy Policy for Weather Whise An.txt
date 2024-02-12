@@ -1,0 +1,31 @@
+Privacy Policy for Weather Whise Android Application:
+
+Effective Date: 12-02-2024
+
+Thank you for using Weather Whise, a weather information application developed by khwahish appisland. Your privacy and security are important to us. This Privacy Policy outlines how we collect, use, and protect your information when you use the Weather Whise application 
+
+1. Information We Collect:
+   Weather Whise does not collect any personal information or data from its users. As a static weather information application, we do not require users to create accounts or provide any personal information.
+
+2. Location Information:
+   Weather Whise may request access to your device's location in order to provide accurate weather forecasts based on your current location. However, this information is not stored or transmitted to our servers. It is solely used within the App to display local weather data.
+
+3. Cookies and Tracking Technologies:
+   Weather Whise does not use cookies or any other tracking technologies to collect user data.
+
+4. Third-party Services:
+   Weather Whise does not integrate with any third-party services or APIs that collect user data.
+
+5. Data Security:
+   We take appropriate measures to ensure the security of your information. Weather Whise is a static application that does not transmit or store any user data, reducing the risk of data breaches.
+
+6. Children's Privacy:
+   Weather Whise is not directed to children under the age of 13, and we do not knowingly collect personal information from children. If you are a parent or guardian and become aware that your child has provided us with personal information, please contact us, and we will promptly delete such information from our records.
+
+7. Changes to This Privacy Policy:
+   We may update this Privacy Policy from time to time. Any changes will be effective immediately upon posting the updated Privacy Policy on this page.
+
+8. Contact Us:
+   If you have any questions or concerns about this Privacy Policy or the Weather Whise application, please contact us at khwahish1706@gmail.com
+
+By using Weather Whise, you agree to the terms outlined in this Privacy Policy. Please read this Privacy Policy carefully and check back periodically for any updates or changes.
