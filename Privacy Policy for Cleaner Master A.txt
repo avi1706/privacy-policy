@@ -1,0 +1,30 @@
+Privacy Policy for Cleaner Master Android Application:
+
+1. Introduction:
+Cleaner Master operates the Cleaner Master mobile application (hereinafter referred to as the "Service"). This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. 
+
+2. Information Collection and Use:
+Cleaner Master does not collect any personal information from its users. The only permission requested is location permission for the purpose of optimizing storage cleaning processes based on geographic location. However, this information is not stored or utilized beyond the scope of improving the functionality of the Service.
+
+3. Types of Data Collected:
+Cleaner Master does not collect any personal data from users.
+
+4. Use of Data:
+The information collected through location permission is solely used to enhance the functionality of the Service by providing optimized storage cleaning recommendations based on the user's geographical location. No personal data is stored, shared, or used for any other purpose.
+
+5. Data Retention:
+Cleaner Master does not retain any personal data. The location information is used in real-time for optimizing the storage cleaning process and is not stored or retained by the application.
+
+6. Security:
+Cleaner Master prioritizes the security of user data and implements appropriate measures to prevent unauthorized access, alteration, disclosure, or destruction of personal information. As no personal data is collected or stored, the risk of unauthorized access to such data is mitigated.
+
+7. Children's Privacy:
+Cleaner Master does not knowingly collect personal data from children under the age of 13. If you are a parent or guardian and you are aware that your child has provided us with personal data, please contact us so that we can take necessary action to delete such information.
+
+8. Changes to This Privacy Policy:
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+
+9. Contact Us:
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at khwahish1706@gmail.com
+
+By using the Cleaner Master application, you agree to the collection and use of information in accordance with this Privacy Policy.
