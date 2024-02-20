@@ -1,0 +1,33 @@
+**Privacy Policy for Torch Master**
+
+At Torch Master, we are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy outlines the types of personal information we collect, how we use it, and the measures we take to safeguard your information. By accessing or using Torch Master's services, you agree to the terms and conditions of this Privacy Policy.
+
+**Information We Collect**
+
+- **Personal Information**: When you use Torch Master, we may collect personal information such as your name, email address, contact information, and any other information you voluntarily provide.
+- **Usage Data**: We may collect information about how you interact with our services, including your IP address, browser type, device identifiers, and other usage statistics.
+- **Cookies and Tracking Technologies**: We use cookies and similar tracking technologies to enhance your experience on our website and to analyze trends, administer the website, track users' movements around the site, and gather demographic information.
+
+**How We Use Your Information**
+
+- **Providing Services**: We may use your personal information to provide you with the services offered by Torch Master, including processing orders, responding to inquiries, and communicating with you.
+- **Improving Our Services**: We may use aggregated usage data to analyze trends, improve our services, and enhance the user experience.
+- **Marketing and Promotions**: With your consent, we may use your contact information to send you promotional materials, newsletters, or other marketing communications.
+
+**Data Security**
+
+Torch Master employs industry-standard security measures to protect your personal information from unauthorized access, disclosure, alteration, or destruction. However, please be aware that no method of transmission over the internet or electronic storage is 100% secure, and we cannot guarantee absolute security.
+
+**Third-Party Links**
+
+Our website may contain links to third-party websites or services that are not owned or controlled by Torch Master. We are not responsible for the privacy practices or content of these third-party sites. We encourage you to review the privacy policies of any third-party sites you visit.
+
+**Changes to this Privacy Policy**
+
+Torch Master reserves the right to update or modify this Privacy Policy at any time without prior notice. Any changes to this Privacy Policy will be posted on this page with an updated effective date.
+
+**Contact Us**
+
+If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at [contact@torchmaster.com](mailto:contact@torchmaster.com).
+
+By using Torch Master's services, you signify your acceptance of this Privacy Policy. If you do not agree to this Privacy Policy, please do not use our services.
